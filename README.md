@@ -28,7 +28,7 @@
 
 ## Languagers & Tools
 
-<code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8Blzp6aega6pMnSJ_l9X6c_tUHTGJ3YiEZ1raKjYe08Ihuw07LTHexzHkwlsI9hZhTk&usqp=CAU"></code
+<code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8Blzp6aega6pMnSJ_l9X6c_tUHTGJ3YiEZ1raKjYe08Ihuw07LTHexzHkwlsI9hZhTk&usqp=CAU"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
