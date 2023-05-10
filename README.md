@@ -24,7 +24,7 @@
 - Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Ionic
 - Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js
 - Database : MySQL, PostgreSQL, MongoDB, SQLite
-- Interesting : Android application, AI
+- Interesting : Android application, Windows-platform spplication
 
 ## Languagers & Tools
 
