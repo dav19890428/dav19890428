@@ -6,19 +6,6 @@
   <img src="https://github.com/kanbei0605/kanbei0605/blob/master/developing3.jpg" />
 </p>
 
-<h3>🏆 Github Profile Trophy</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&column=7&theme=onedark"/>
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kanbei0605&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20and%20Science%20Expert;4+%2B%20years%20of%20Managing%20Developer%20Team&width=380&height=45">
-  </a>
-</p>
-
 ## Skills
 - Language : JAVA, HTML, CSS, Javascript, Typescript, Ruby, Python, PHP, Solidity, Rust
 - Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Ionic
