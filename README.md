@@ -1,15 +1,5 @@
-<div class="mt-4">
-  <div class="js-pinned-items-reorder-container">
-  <h2 class="f4 mb-2 text-normal">
-      Popular repositories
-    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="spinner pinned-items-spinner js-pinned-items-spinner v-align-text-bottom ml-1 anim-rotate">
-        <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke"></circle>
-        <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-    </svg>
-    <span class="ml-2 color-fg-muted f6 js-pinned-items-reorder-message" role="status" aria-live="polite" data-error-text="Something went wrong." data-success-text="Order updated."></span>
-  </h2>
-
-    <ol class="d-flex flex-wrap list-style-none gutter-condensed mb-4">
+<div>
+<ol class="d-flex flex-wrap list-style-none gutter-condensed mb-4">
 
     <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">
       <div class="Box pinned-item-list-item d-flex p-3 width-full public fork">
@@ -179,11 +169,7 @@
       </div>
     </li>
 </ol>
-
 </div>
-
-</div>
-
 <!---
 dav19890428/dav19890428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
