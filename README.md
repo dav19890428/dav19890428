@@ -1,11 +1,9 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    Senior Full-Stack&Blockchain Engineer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    Computer Science Expert
 </h1>
 
 <p align="center">
-  <img src="https://github.com/kanbei0605/kanbei0605/blob/master/developing3.jpg" />
+  <!-- <img src="https://github.com/kanbei0605/kanbei0605/blob/master/developing3.jpg" /> -->
 </p>
 
 <h3>🏆 Github Profile Trophy</h3>
@@ -17,17 +15,16 @@
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20and%20Blockchain%20engineer;7+%2B%20years%20of%20working%20experience&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20and%20Science%20Expert;4+%2B%20years%20of%20Managing%20Developer%20Team&width=380&height=45">
   </a>
 </p>
 
 ## Skills
-
-- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Ionic
-- 🔭 Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, Ruby, Python, PHP, Solidity, Rust
-- 📫 Interesting : AI, Blockchain
+- Language : JAVA, HTML, CSS, Javascript, Typescript, Ruby, Python, PHP, Solidity, Rust
+- Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, Material UI, React Native, Ionic
+- Backend : Ruby on Rails, Node.js, CI, Laravel, Django, Express, Loopback, Nest.js
+- Database : MySQL, PostgreSQL, MongoDB, SQLite
+- Interesting : Android application, AI, Blockchain
 
 ## Languagers & Tools
 
